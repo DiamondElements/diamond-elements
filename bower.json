@@ -18,7 +18,10 @@
     "/test/"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.1.0"
+    "polymer": "Polymer/polymer#^1.1.0",
+    "diamond-chrome": "DiamondElements/diamond-chrome",
+    "diamond-file-system": "DiamondElements/diamond-file-system",
+    "diamond-child-process-spawn": "DiamondElements/diamond-child-process-spawn"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
